@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalando com telecomunicações - Técnico de campo
+- 🔭 Hoje trabalando com telecomunicações - Supervisor Técnico
 - 👨‍💻 Procurando vaga de Estágio em front-end
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas e uma trilha front-end pela Softex-PE
 - 📫 gleibsonfsilva16@gmail.com 
