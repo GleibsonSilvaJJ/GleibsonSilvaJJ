@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalando com telecomunicações - Supervisor Técnico
-- 👨‍💻 Procurando vaga de Estágio em front-end
+- 👨‍💻 Procurando vaga de Estágio em back-end
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas e uma trilha front-end pela Softex-PE
 - 📫 gleibsonfsilva90@gmail.com 
 - 😄 Pronouns: ele/dele
