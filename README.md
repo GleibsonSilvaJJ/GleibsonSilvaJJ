@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Data Science em construção
+- 🔭 Back-end
 - 👨‍💻 Procurando vaga de Estágio
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 📫 gleibsonfsilva90@gmail.com 
